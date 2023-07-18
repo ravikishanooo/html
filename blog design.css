@@ -1,0 +1,24 @@
+ body { 
+      background-color: rgb(7, 132, 182);
+      padding:10px  50px 9px 50px;
+      
+      
+ } 
+ div { padding: 50px;
+    margin: 50px;
+ }
+ table {
+    background-color: yellow;
+    border: 1px solid black;
+    align: right;
+    float: right;}
+th { 
+    background-color:rgb(255, 145, 0);
+    border: 1px solid black;}
+.blog {
+    margin-align: right;
+}
+h1.blog1 {
+    margin: ;
+}
+
